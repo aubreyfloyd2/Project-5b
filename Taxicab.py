@@ -3,7 +3,7 @@
 # Date: 2/6/2023
 # Description: A class named Taxicab that has three private data members: one that holds the
 #              current x-coordinate, one that holds the current y-coordinate,
-#              and one that holds the current odometer reading.
+#              and one that holds the current odometer reading which is able to move and update.
 
 class Taxicab:
     """
